@@ -111,3 +111,5 @@ Finally, we will boost it to a very complicated example, we want to generate a c
 # TODO
  - [ ] Agregar término anticipado por alcance de un umbral de score
  - [ ] Generalizar la definición de los parámetros a optimizar
+ - [ ] Otras maneras de hacer el cruzamiento
+ - [ ] Diferentes formas de hacer las mutaciones
