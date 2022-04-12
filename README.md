@@ -106,3 +106,8 @@ print("Best door:", pop.get_top())
 ```
 
 Finally, we will boost it to a very complicated example, we want to generate a copy of a picture of a face from a randomly generated face.
+
+
+# TODO
+ - [ ] Agregar término anticipado por alcance de un umbral de score
+ - [ ] Generalizar la definición de los parámetros a optimizar
